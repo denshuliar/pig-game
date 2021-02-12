@@ -1,1 +1,1 @@
-# pig-ame
+# pig-game
